@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme="basic"
+title = "Transmission Line Noise"
+copyright = "© 2020 Copyright belongs to me or if i have borrowed content the originator"
